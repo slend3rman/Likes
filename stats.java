@@ -20,6 +20,9 @@ public class stats {
 
 	}
 
+	/*This Function uses the choice of the user as a parameter
+	 * and decides which site to access accordingly
+	 */
 	static void Site(int choice) throws IOException {
 
 		switch (choice) {
